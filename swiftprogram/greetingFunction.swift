@@ -3,7 +3,7 @@ func greet(person: String) -> String {
     return greeting
 }
 
-print(greet(person: "Matt"))
+print(greet(person: "Errol"))
 
 print(greet(person: "Marc"))
 
